@@ -1,0 +1,54 @@
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.exe
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.deps.json
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.runtimeconfig.json
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.runtimeconfig.dev.json
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.dll
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.pdb
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\VueCliMiddleware.dll
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.csprojAssemblyReference.cache
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.AssemblyInfoInputs.cache
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.AssemblyInfo.cs
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.csproj.CoreCompileInputs.cache
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\staticwebassets\Vue JS 3.0 with .NET 5 Web API.StaticWebAssets.Manifest.cache
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\staticwebassets\Vue JS 3.0 with .NET 5 Web API.StaticWebAssets.xml
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Vue JS 3.0 with .NET 5 Web API.styles.css
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.csproj.CopyComplete
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.dll
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.pdb
+C:\Users\Diana Hasanova\source\repos\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.genruntimeconfig.cache
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.StaticWebAssets.xml
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.exe
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.deps.json
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.runtimeconfig.json
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.runtimeconfig.dev.json
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.dll
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.pdb
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\bin\Debug\netcoreapp3.1\VueCliMiddleware.dll
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.csproj.AssemblyReference.cache
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.AssemblyInfoInputs.cache
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.AssemblyInfo.cs
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.csproj.CoreCompileInputs.cache
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\staticwebassets\Vue JS 3.0 with .NET 5 Web API.StaticWebAssets.Manifest.cache
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.csproj.CopyComplete
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.dll
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.pdb
+C:\Users\Ihor Flyunt\Downloads\Vue JS 3.0 with .NET 5 Web API\Vue JS 3.0 with .NET 5 Web API\obj\Debug\netcoreapp3.1\Vue JS 3.0 with .NET 5 Web API.genruntimeconfig.cache
